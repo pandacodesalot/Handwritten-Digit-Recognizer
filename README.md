@@ -18,7 +18,6 @@ The Streamlit front-end provides a simple and interactive web-based user interfa
 
 1. Draw a digit on a canvas: Users can use the mouse or touchpad to draw a digit on a canvas provided by the Streamlit app. The drawn image is then passed to the trained CNN model for prediction.
 2. Display prediction results: The Streamlit app displays the predicted digit.
-3. [Link to Streamlit Application](https://vinay2022-hand-written-digit-recognition.streamlit.app/)
 ## Sample Output
 ![full](https://user-images.githubusercontent.com/97530517/232018256-94749378-9d7b-4b33-a0a9-376bd2862392.PNG)
 ![image (1)](https://user-images.githubusercontent.com/97530517/232014753-7cd8a16c-1b42-4a5c-b67b-27998331ef8e.png)
